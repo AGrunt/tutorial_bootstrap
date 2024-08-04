@@ -1,11 +1,7 @@
-body::before{
+body::before {
     display: block;
     content: '';
     height: 2rem;
-}
-
-#map {
-    border-radius: 10px;
 }
 
 @media(min-width: 768px) {
