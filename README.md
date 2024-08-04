@@ -1,7 +1,7 @@
 # tutorial_bootstrap
 
-Summary:
-Bootstrap tutorial + experiments
+Summary:  
+Bootstrap tutorial + experiments  
 Lorem Ipsum bottcamp.  
 BECOME A LOREM IPSUM TODAY
 
