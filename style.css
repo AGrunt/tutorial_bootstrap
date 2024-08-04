@@ -4,10 +4,6 @@ body::before{
     height: 2rem;
 }
 
-#map {
-    border-radius: 10px;
-}
-
 @media(min-width: 768px) {
     .news-input {
         width: 50%;
